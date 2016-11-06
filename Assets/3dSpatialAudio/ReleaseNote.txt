@@ -1,0 +1,17 @@
+
+	********************************************************************************
+	*                                                                              *
+	* 		TwirlingVR 3D Spatial Audio Release Notes                      *
+	*                                                                              *
+	********************************************************************************
+
+
+
+V1.0
+The first release version.
+Include the following features:
+1. 3D audio spatializer.
+2. Room reverberation.
+3. You can toggle speaker virtualizer and headphone virtualizer depending on whether you playback 3D audio with two loudspeakers or headphone.
+4. This version only support PC (win7+) and Android unity projects.
+
